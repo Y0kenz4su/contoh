@@ -34,7 +34,7 @@ Simple WhatsApp Bot
 > node index.js
 ```
 
-# Recode: Yokenza
+# Recode: YZ
 Script: @Nurutomo
 
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Mario_Gameplay.gif"/>
